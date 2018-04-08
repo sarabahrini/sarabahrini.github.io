@@ -1,0 +1,69 @@
+    html {
+      height: 100%;
+      background-image: url("building1.jpg");
+      background-position: center;
+     background-repeat: no-repeat;
+    background-size: cover;
+    }
+    body {
+       width: 100%;
+       height: 100%;
+       padding: 0px;
+       /* background-color:#FCFFC0; */
+       font-family: 'Syncopate', sans-serif;
+    }
+    head {
+        text-align: center;
+    }
+
+    header {
+        background-color:#DAFFFD;
+        padding: 7px;
+        border: 4px solid #3F471A;
+        font-family: 'Syncopate', sans-serif;
+        display: block;
+    }
+    nav {
+        float: left;
+        width: 100%;
+    }
+    nav ul {
+        padding: ;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
